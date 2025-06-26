@@ -1,7 +1,5 @@
 {
-    "name": "viniarte/atitude",
-    "require": {
-        "stripe/stripe-php": "^17.3",
-        "mailchimp/marketing": "^3.0"
-    }
+  "name": "viniarte/funnelcraft-base",
+  "description": "Base plugin para desenvolvimento WordPress via Codex",
+  "require": {}
 }

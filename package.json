@@ -1,24 +1,8 @@
 {
-  "name": "atitude",
+  "name": "funnelcraft-plugin-base",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo 'build placeholder'"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/viniarte/atitude.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/viniarte/atitude/issues"
-  },
-  "homepage": "https://github.com/viniarte/atitude#readme",
-  "devDependencies": {
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.11"
-  }
+  "devDependencies": {}
 }

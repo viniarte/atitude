@@ -1,1 +1,11 @@
-/vendor/
+# Ignora pastas de dependência
+# Descomente se for subir para o Codex com dependências incluídas
+# /node_modules
+# /vendor
+
+# IDEs e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.env
