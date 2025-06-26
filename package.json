@@ -1,0 +1,19 @@
+{
+  "name": "atitude",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniarte/atitude.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniarte/atitude/issues"
+  },
+  "homepage": "https://github.com/viniarte/atitude#readme"
+}
