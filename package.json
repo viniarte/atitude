@@ -1,0 +1,12 @@
+{
+  "name": "funnelcraft-god-mode",
+  "version": "0.1.0",
+  "description": "Visual funnel builder for WordPress",
+  "dependencies": {
+    "elementor": "latest",
+    "tailwindcss": "^2.2.19",
+    "stripe-php": "latest",
+    "mailchimp-marketing": "latest",
+    "wp-api-fetch": "latest"
+  }
+}

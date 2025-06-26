@@ -1,0 +1,9 @@
+{
+    "name": "viniarte/funnelcraft-god-mode",
+    "description": "FunnelCraft GOD MODE plugin",
+    "type": "project",
+    "require": {
+        "stripe/stripe-php": "^12.0",
+        "mailchimp/marketing": "^3.0"
+    }
+}
